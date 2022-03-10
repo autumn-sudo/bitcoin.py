@@ -1,10 +1,4 @@
-# BTC hack v2
-# Made by David Gilbert
-# https://github.com/davidmgilbert/btc-hack
-# https://www.davidmgilbert.com
-
-#!/usr/bin/python3
-
+#by blackcore
 import hashlib
 import os
 import hashlib
